@@ -1,11 +1,9 @@
 # word2vec-mini
 
-Minimal Word2Vec (skip-gram with negative sampling).
-
-Zero dependencies. Python 3.8+.
+Minimal Word2Vec skip-gram model. Single-file Python CLI, zero dependencies.
 
 ## Usage
 
 ```bash
-python3 word2vec_mini.py --help
+python3 word2vec_mini.py
 ```
